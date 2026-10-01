@@ -286,7 +286,6 @@ dependencies:
   cf_stacks:
   - cflinuxfs5
   - cflinuxfs4
-  - cflinuxfs3
   source: https://github.com/astral-sh/uv/releases/download/0.12.19/source.tar.gz
   source_sha256: 26a42b3580e990db68120838c2512a678aedd473c777b34aa802dc100ef7c76a
 include_files:
